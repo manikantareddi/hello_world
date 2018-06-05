@@ -1,2 +1,3 @@
 # hello_world
-Add repository 
+hi guys,
+starting a repositories
